@@ -1,4 +1,9 @@
-## Git Collaboration
+## Intro to HTML and CSS
+
+
+<img width="1378" alt="Screen Shot 2019-07-15 at 19 22 00" src="https://user-images.githubusercontent.com/11008299/61232054-18f08800-a736-11e9-91c5-b2e3e223cc6d.png">
+
+<img width="1440" alt="Screen Shot 2019-07-12 at 17 51 33" src="https://user-images.githubusercontent.com/11008299/61232055-18f08800-a736-11e9-8622-7b34c4ce559a.png">
 
 <img width="1440" alt="Снимок экрана 2019-06-09 в 13 31 57" src="https://user-images.githubusercontent.com/11008299/59452908-6fa53200-8e17-11e9-96ed-7274275833d7.png">
 
